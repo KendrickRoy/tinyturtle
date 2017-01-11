@@ -1,0 +1,29 @@
+/*global TinyTurtle*/
+ TinyTurtle.apply(window); 
+forward(20);
+right(90);
+forward(20);
+right(90);
+forward(20);
+right(90);
+forward(20);
+left(120);
+forward(20);
+left(120);
+forward(20);
+left(120);
+left(60);
+forward(40);
+left(120);
+forward(20);
+left(120);
+forward(20);
+right(240);
+forward(20);
+left(30);
+forward(20);
+left(90);
+forward(20);
+left(90);
+forward(20);
+
